@@ -2,6 +2,13 @@
 
 # Awesome Toit [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+Toit is an open source, object-oriented programming language for the Internet of Things. The Toit language has the following desirable properties:
+
+- Modern, simple, and approachable
+- High-level and object-oriented
+- Declarative and statically analyzable
+- Safe and garbage collected
+
 ## Contents
 
 - [Applications](#applications)
