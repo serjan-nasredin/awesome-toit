@@ -60,3 +60,15 @@ Toit is an open source, object-oriented programming language for the Internet of
 	- [Syntax highlighting](#syntax-highlighting)
 	- [Tutorials](#tutorials)
 	- [Videos](#videos)
+
+## Other
+
+### Syntax highlighting
+
+#### VS Code
+
+#### VIM
+
+#### Sublime Text 3
+
+- [toit.tmbundle](https://github.com/serjan-nasredin/toit.tmbundle#readme) - Fully-featured [Sublime Text 3](https://packagecontrol.io/packages/Toit) package for the Toit Programming Language.
