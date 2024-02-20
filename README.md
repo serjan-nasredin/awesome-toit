@@ -61,6 +61,16 @@ Toit is an open source, object-oriented programming language for the Internet of
 	- [Tutorials](#tutorials)
 	- [Videos](#videos)
 
+## Libraries
+
+### Discord
+
+- [toit-discord](https://github.com/floitsch/toit-discord) - The library for connecting to the Discord gateway.
+
+### Telegram
+
+- [toit-telegram](https://github.com/floitsch/toit-telegram) - Telegram bot library.
+
 ## Other
 
 ### Syntax highlighting
